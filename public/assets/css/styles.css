@@ -222,12 +222,24 @@ p {
   margin-top: 0;
   margin-bottom: 5px;
 }
+
+.main-wrapper .project-tech-used {
+  /*border: 1px solid red;*/
+  margin: 20px 0 0 0;
+  text-align: center;
+}
+.main-wrapper .project-tech-used img {
+  height: 55px;
+  padding: 10px;
+}
+
 .main-wrapper .projects-section .intro {
   margin-bottom: 30px;
 }
 .main-wrapper .projects-section .item {
   margin-bottom: 15px;
 }
+
 .skillset .item {
   margin-bottom: 15px;
   overflow: hidden;
